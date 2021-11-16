@@ -205,3 +205,17 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+video#filme1 {
+    display: block;
+    position: relative;
+    left: 20px;
+    top: -10px;
+    width: 440px;
+}
+video#filme2 {
+    display: block;
+    position: relative;
+    left: 10px;
+    top: 0px;
+    width: 320px;
+}
